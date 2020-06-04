@@ -1,6 +1,6 @@
 {
   "name": "cra-tailwind-ts",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "5.9.0",
@@ -13,7 +13,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "3.9.3"
+    "typescript": "3.9.5"
   },
   "scripts": {
     "dev": "concurrently \"yarn watch:css --silent\" \"yarn start --silent\"",
